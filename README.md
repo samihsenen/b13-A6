@@ -27,4 +27,4 @@ Built with **Tailwind CSS v4** and **DaisyUI**, the project features a fully res
 
 ---
 
-**Developed with ❤️ by SamihSinin
+**Developed with ❤️ by SamihSinin**
